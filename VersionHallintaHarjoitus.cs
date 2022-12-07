@@ -2,5 +2,6 @@
 {
 	public VersionHallintaHarjoitus 
 	{
+		 Console.WriteLine( "Welcome to AnotherIKClone!" );
 	}
 }
